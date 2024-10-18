@@ -1,0 +1,17 @@
+{
+  "name": "aws-billing-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aws-bc.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-cost-explorer": "^3.670.0",
+    "aws-sdk": "^2.1691.0"
+  }
+}
